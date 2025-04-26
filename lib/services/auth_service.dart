@@ -2,7 +2,6 @@ import 'dart:convert'; // 用于 base64 编码/解码
 import 'dart:typed_data';
 
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:pointycastle/pointycastle.dart'; // 用于摘要比较
 import 'encryption_service.dart';
 import '../utils/constants.dart';
 
