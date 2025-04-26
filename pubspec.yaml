@@ -1,10 +1,8 @@
 name: pwm
 description: "一个使用 Flutter 构建的本地密码管理器，注重安全和易用性。"
 # Optional fields for pub.dev or general info
-homepage: https://github.com/Jeremy4629 
-repository: https://github.com/Jeremy4629/PWM_password_manager 
-authors:
-  - Harrison 2393569847@qq.com
+homepage: https://github.com/Harrison4629
+repository: https://github.com/Harrison4629/PWM-password-manager 
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
